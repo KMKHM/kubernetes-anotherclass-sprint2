@@ -2,7 +2,7 @@
 replicaCount: 1
 
 image:
-  repository: kmkhm/api-tester
+  repository: 1pro/api-tester
   pullPolicy: Always
   tag: ""
 
